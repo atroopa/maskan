@@ -4,7 +4,7 @@ const ImageSlider = () => {
 
   return (
     <div>
-        <div className="max-w-screen-xl px-4 mx-auto md:px-8">
+        <div className="max-w-screen-xl px-4 mx-auto md:px-8 py-10">
         <div className="mb-10 md:mb-16">
             <h2 className="
         mb-4
